@@ -46,7 +46,6 @@ button.addEventListener("click", testar);
 console.log(certo);
 
 function testar() {
-  console.log(cont);
   var tentativa = input.value.toUpperCase();
 
   if (ativo) {
