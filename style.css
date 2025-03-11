@@ -1,62 +1,59 @@
-body
-{
-    padding: 0;
-    margin: 0;
-    text-align: center;
-    background-color: rgb(255, 255, 255);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+body {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
-.palavra
-{
-    display:flex;
-    margin-left: 36vw;
+.palavra {
+  display: flex;
+  margin-left: 36vw;
 }
 
-.letra
-{
-    background-color: rgb(255, 255, 255);
-    margin-top: 10px;
-    margin-inline: 5px;
-    border: 2px solid black;
-    border-radius: 5px;
-    width: 5vw;
-    height: 5vw;
-    align-content: center;
-    text-align: center;
-    font-size: 2vw;
-    color: black;
+.letra {
+  background-color: rgb(255, 255, 255);
+  margin-top: 10px;
+  margin-inline: 5px;
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 5vw;
+  height: 5vw;
+  align-content: center;
+  text-align: center;
+  font-size: 2vw;
+  color: black;
 }
 
-.verde
-{
-    background-color: rgba(81,179,110,255);
-    color: white;
+.verde {
+  background-color: rgba(81, 179, 110, 255);
+  color: white;
 }
 
-.amarelo
-{
-    background-color: #c79c2e;
-    color: white;
+.amarelo {
+  background-color: #c79c2e;
+  color: white;
 }
 
-.vermelho
-{
-    background-color: #943e3c;
-    color: white;
+.vermelho {
+  background-color: #943e3c;
+  color: white;
 }
 
-#entrada
-{
-    text-transform:uppercase;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 2vw;
-    text-align: center;
-    width: 15vw;
+#entrada {
+  text-transform: uppercase;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 2vw;
+  text-align: center;
+  width: 15vw;
 }
 
-#button
-{
-    width: 15vw;
-    align-content: center;
+#button {
+  width: 15vw;
+  align-content: center;
+}
+
+.text__wrong {
+  color: red;
 }
