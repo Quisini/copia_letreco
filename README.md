@@ -5,3 +5,5 @@ Você pode usar enter para admitir a palavra.
 Feito usando HTML, CSS e JavaScript Vanilla
 
 Tarefa da escola durante meu tempo no IFPR - Barracão.
+
+Acesso em: https://quisini.github.io/Copia_Letreco/
